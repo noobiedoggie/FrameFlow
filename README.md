@@ -2,6 +2,11 @@
 
 A minimalistic, phone-first AI-assisted 2D frame-by-frame animation studio for Android (`minSdk = 26`, `compileSdk = 37`), built with Jetpack Compose and Navigation 3.
 
+## Download APK
+
+- **Repository APK:** [`FrameFlow-debug.apk`](FrameFlow-debug.apk)
+- **GitHub Releases:** [Latest GitHub Release](https://github.com/noobiedoggie/FrameFlow/releases/latest)
+
 ## Features
 
 - **Phone-Ergonomic Minimalistic Workspace**
